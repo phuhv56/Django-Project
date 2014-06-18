@@ -25,7 +25,7 @@ DEBUG = True
 TEMPLATE_DEBUG = True
 
 TEMPLATE_DIRS = {
-    'C:/footballsite/templates',
+    'C:/FirstGit/Django-Project/footballsite/templates',
 }
 
 ALLOWED_HOSTS = []
@@ -63,7 +63,7 @@ WSGI_APPLICATION = 'footballsite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'C:/footballsite/storage.db',
+        'NAME': 'C:/FirstGit/Django-Project/footballsite/storage.db',
     }
 }
 
