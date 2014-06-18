@@ -1,17 +1,11 @@
-<html>
-<head>
-	<title>
-		Example Django
-	</title>
-</head>
+{% extends "base.htm" %}
 
-<body>
-	
+{% block content %}
+
 {% for club in clubs %}
 <div>
 <h2> <img width="50px" height ="px" src = "{{club.image_url}}"/> <a  href='/club/get/{{club.id}}/'> {{club.name}} </a> </h2>
+    <p> {{club.description|lower|truncatewords:"10"}} </p>
 </div>
 {% endfor %}
-</body>
-
-</html>
+{% endblock %}
