@@ -26,6 +26,7 @@ TEMPLATE_DEBUG = True
 
 TEMPLATE_DIRS = {
     'C:/FirstGit/Django-Project/footballsite/templates',
+    'C:/FirstGit/Django-Project/footballsite/club/templates',
 }
 
 ALLOWED_HOSTS = []
