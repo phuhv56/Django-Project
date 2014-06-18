@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>
+		Example Django
+	</title>
+</head>
+
+<body>
+	
+{% for club in clubs %}
+<div>
+<h2> <img width="50px" height ="px" src = "{{club.image_url}}"/> <a  href='/club/get/{{club.id}}/'> {{club.name}} </a> </h2>
+</div>
+{% endfor %}
+</body>
+
+</html>
