@@ -8,7 +8,6 @@
 <body>
 	
 	Hi {{name}} today i will show you how to install django python on windows
-	update
 	
 </body>
 
