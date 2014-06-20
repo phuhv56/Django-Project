@@ -50,19 +50,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/club/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="70" selection-start="781" selection-end="784" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="493">
-              <folding />
+            <state line="12" column="17" selection-start="465" selection-end="465" vertical-scroll-proportion="0.15497077" vertical-offset="151" max-vertical-offset="493">
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/club/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="7" selection-start="113" selection-end="113" vertical-scroll-proportion="0.2647975" vertical-offset="0" max-vertical-offset="321">
+            <state line="12" column="0" selection-start="374" selection-end="374" vertical-scroll-proportion="-8.16" vertical-offset="0" max-vertical-offset="306">
               <folding />
             </state>
           </provider>
@@ -71,7 +73,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footballsite/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="1" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
+            <state line="13" column="1" selection-start="345" selection-end="345" vertical-scroll-proportion="-7.48" vertical-offset="0" max-vertical-offset="289">
               <folding />
             </state>
           </provider>
@@ -80,7 +82,7 @@
       <file leaf-file-name="clubs.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/club/templates/clubs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+            <state line="3" column="0" selection-start="46" selection-end="64" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="578">
               <folding />
             </state>
           </provider>
@@ -96,17 +98,10 @@
       <file leaf-file-name="base.htm" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="30" selection-start="7311" selection-end="7311" vertical-scroll-proportion="0.0" vertical-offset="2154" max-vertical-offset="2737">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="club.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/club/templates/club.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-              <folding />
+            <state line="33" column="11" selection-start="917" selection-end="917" vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="697">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,9 +124,9 @@
         <option value="$PROJECT_DIR$/templates/clubs.html" />
         <option value="$PROJECT_DIR$/club/templates/club.html" />
         <option value="$PROJECT_DIR$/footballsite/urls.py" />
-        <option value="$PROJECT_DIR$/templates/base.htm" />
-        <option value="$PROJECT_DIR$/club/templates/clubs.html" />
         <option value="$PROJECT_DIR$/footballsite/settings.py" />
+        <option value="$PROJECT_DIR$/club/templates/clubs.html" />
+        <option value="$PROJECT_DIR$/templates/base.htm" />
       </list>
     </option>
   </component>
@@ -427,13 +422,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
-=======
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
->>>>>>> origin/master
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.36097562" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -471,13 +461,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/club/templates/club.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/footballsite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1819">
@@ -495,7 +478,9 @@
     <entry file="file://$PROJECT_DIR$/club/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -523,7 +508,9 @@
     <entry file="file://$PROJECT_DIR$/templates/base.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2737">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -551,7 +538,9 @@
     <entry file="file://$PROJECT_DIR$/club/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -579,7 +568,9 @@
     <entry file="file://$PROJECT_DIR$/templates/base.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -607,7 +598,9 @@
     <entry file="file://$PROJECT_DIR$/club/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -635,7 +628,9 @@
     <entry file="file://$PROJECT_DIR$/templates/base.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -663,7 +658,9 @@
     <entry file="file://$PROJECT_DIR$/club/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -691,7 +688,9 @@
     <entry file="file://$PROJECT_DIR$/templates/base.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -719,7 +718,9 @@
     <entry file="file://$PROJECT_DIR$/club/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -749,44 +750,9 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/club/templates/club.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/images/iu.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footballsite/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="1" selection-start="345" selection-end="345" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="323">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/club/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="70" selection-start="781" selection-end="784" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="493">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/club/templates/clubs.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="24" selection-start="24" selection-end="24" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="30" selection-start="7311" selection-end="7311" vertical-scroll-proportion="0.0" vertical-offset="2154" max-vertical-offset="2737">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/storage.db">
@@ -808,6 +774,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/footballsite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="1" selection-start="345" selection-end="345" vertical-scroll-proportion="-7.48" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/club/templates/clubs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="46" selection-end="64" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/club/templates/club.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="14" selection-start="176" selection-end="176" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/club/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="346">
@@ -815,10 +802,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/Thumbs.db">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="11" selection-start="917" selection-end="917" vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="697">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/club/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="7" selection-start="113" selection-end="113" vertical-scroll-proportion="0.2647975" vertical-offset="0" max-vertical-offset="321">
+        <state line="12" column="0" selection-start="374" selection-end="374" vertical-scroll-proportion="-8.16" vertical-offset="0" max-vertical-offset="306">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/club/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="17" selection-start="465" selection-end="465" vertical-scroll-proportion="0.15497077" vertical-offset="151" max-vertical-offset="493">
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
