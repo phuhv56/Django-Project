@@ -1,28 +1,27 @@
 {% extends "base.htm" %}
 
 {% block content %}
-{% if clubs > 0 %}
-
-{% for club in clubs %}
-<style>
-.item {
-    width: 200px;
-    height: 200px;
-    float: left;
-    border: 1px solid #c9c8c9;
-    margin: 25px;
-    -webkit-border-radius: 1em;
-}
-</style>
-<div class="item">
-    <h2>
-        <img width="50px" height ="px" src = "{{club.image_url}}"/>
-        <a  href='/club/get/{{club.id}}/'> {{club.name}} </a>
-    </h2>
-    <p> {{club.description|lower|truncatewords:"10"}} </p>
-</div>
-{% endfor %}
-{% else %}
-        <h1> No Club to show </h1>
-{% endif%}
+    {% if clubs > 0 %}
+        {% for club in clubs %}
+            <style>
+                .item {
+                    width: 200px;
+                    height: 200px;
+                    float: left;
+                    border: 1px solid #c9c8c9;
+                    margin: 25px;
+                    -webkit-border-radius: 1em;
+                }
+            </style>
+            <div class="item">
+                <h2>
+                    <img width="50px" height ="px" src = "{{club.image_url}}"/>
+                    <a  href='/club/get/{{club.id}}/'> {{club.name}} </a>
+                </h2>
+                <p> {{club.description|lower|truncatewords:"10"}} </p>
+            </div>
+        {% endfor %}
+    {% else %}
+            <h1> No Club to show </h1>
+    {% endif%}
 {% endblock %}
